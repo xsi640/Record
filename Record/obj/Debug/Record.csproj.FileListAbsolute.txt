@@ -1,0 +1,12 @@
+D:\new_svn_workcopy\trunk\Record\bin\Debug\Record.dll
+D:\new_svn_workcopy\trunk\Record\bin\Debug\Record.pdb
+D:\new_svn_workcopy\trunk\Record\obj\Debug\Record.dll
+D:\new_svn_workcopy\trunk\Record\obj\Debug\Record.pdb
+D:\new_svn_workcopy\trunk\Record\obj\Debug\Record_MarkupCompile.cache
+D:\new_svn_workcopy\trunk\Record\obj\Debug\Record.g.resources
+D:\new_svn_workcopy\trunk\Record\obj\Debug\Record.csprojResolveAssemblyReference.cache
+D:\new_svn_workcopy\trunk\Record\obj\Debug\CrtlRecord.baml
+D:\new_svn_workcopy\trunk\Record\obj\Debug\CrtlRecord.g.cs
+D:\new_svn_workcopy\trunk\Record\bin\Debug\NAudio.dll
+D:\new_svn_workcopy\trunk\Record\obj\Debug\CtrlSoundPlay.baml
+D:\new_svn_workcopy\trunk\Record\obj\Debug\CtrlSoundPlay.g.cs
